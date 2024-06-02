@@ -2,9 +2,6 @@ name: Markdown to PDF with pandoc
 
 on:
   push:
-    branches: [ master ]
-    paths:
-      - '**.md'
   workflow_dispatch:   
 
 jobs:
@@ -14,7 +11,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
-        
+		
       - name: Remove old versions
         run: rm html/*; rm pdf/*
         
