@@ -155,7 +155,7 @@ Für die Erfüllung dieser Aufgaben kann das Rechtsaudit ein Beratungsgremium be
     1. Eine Änderung kann durch den Antragstellenden bis zum Abschluss der erstmaligen Behandlung erfolgen. Auf Antrag eines Mitglieds muss über diese Änderung abgestimmt werden.
     2. In allen anderen Fällen wird über eine Änderung abgestimmt, wobei bei mehreren Änderungen zunächst über diejenige abgestimmt wird, die vom Antrag am weitesten abweicht. Alle Änderungen sind unverzüglich der Versammlungsleitung, dem Vorstand und dem Verwaltungsrat in Textform zu übersenden.
 
-(10) Nach der Versammlung bestehen folgende Pflichten:
+(0) Nach der Versammlung bestehen folgende Pflichten:
 
     1. Der Vorstand hat spätestens sieben Tage nach Ende der Mitgliederversammlung einen Bericht an die Mitglieder, an die Teilnehmenden der Veranstaltung und ESN AISBL, gemäß den entsprechendden Vorgaben, zu versenden.
     2. Die Versammlungsleitung hat das Protokoll der Versammlung den Mitgliedern spätestens 30 Tage vor dem Beginn der darauffolgenden regulären Mitgliederversammlung zur Verfügung zu stellen. Dieser ist das Protokoll zur Zustimmung vorzulegen. 
